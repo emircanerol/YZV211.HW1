@@ -1,4 +1,5 @@
 def arrange():
+    # delete unnecessary rows and round numbers to 2 digits
     with open("/Users/emircanerol/Desktop/BTCUSD_minute.csv",'r') as f:
         c = open("/Users/emircanerol/Desktop/BTCUSD_min.csv",'w')
         first_line = f.readline()

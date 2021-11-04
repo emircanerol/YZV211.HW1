@@ -1,4 +1,3 @@
-
 def remove_unnecessity():
     # file paths
     fp = '/Users/emircanerol/Downloads/hw1_data.csv'
